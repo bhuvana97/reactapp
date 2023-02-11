@@ -76,10 +76,10 @@ return (
           <Button onClick={() => handleClick()}>Add</Button>
         <Tasks>
           <TaskCount>
-            {/* <b>Pending Tasks</b> {todoList.length - completedTaskCount} */}
+           
           </TaskCount>
           <TaskCount>
-            {/* <b>Completed Tasks</b> {completedTaskCount} */}
+           
           </TaskCount>
         </Tasks>
         <div>
